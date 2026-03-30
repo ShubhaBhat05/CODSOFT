@@ -12,6 +12,22 @@ Java Basics: Variables, data types, operators
  Oops Concepts: Use of classes and main method  
  Console I/O: Interaction with the user through command-line
 
+# How to run
+1. Open `Numberguessinggame.java` in  any Java IDE or editor.  
+2. Run the program.  
+3. Enter your guesses in the console when prompted.
+
+# Sample output
+Guess the number between 1 and 100
+You have 5 attempts.
+Enter your guess: 50
+Too low! Try again.
+Enter your guess: 75
+Correct! You guessed it in 2 attempts.
+Current Score: 1
+Do you want to play again? (yes/no): no
+Game Over! Final Score: 1
+
 
 # Code
 You can view the full Java code [here](Numberguessinggame.java).
