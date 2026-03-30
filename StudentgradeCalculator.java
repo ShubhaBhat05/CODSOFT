@@ -13,10 +13,8 @@ public class StudentgradeCalculator{
             marks[i]=sc.nextInt();
             total+=marks[i];
         }
-        System.out.println("Calulating percentage");
         double percentage=(total/n);
        
-        System.out.println("Assigning grade");
         if(percentage>=90){
             grade='A';
         }
