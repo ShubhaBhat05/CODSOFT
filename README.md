@@ -14,7 +14,7 @@ Java Basics: Variables, data types, operators
 
 
 # Code
-You can view the full Java code [here](NumberGuessing.java).
+You can view the full Java code [here](Numberguessinggame.java).
 
 # Author 
 Shubha Bhat
