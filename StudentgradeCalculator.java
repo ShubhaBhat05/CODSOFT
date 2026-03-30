@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class StudentgradeCalculator{
     public static void main(String args[]){
