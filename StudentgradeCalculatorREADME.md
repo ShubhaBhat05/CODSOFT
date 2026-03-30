@@ -24,6 +24,8 @@ Total Marks: 255
 Percentage: 85.0%
 Grade: A
 
+# Code
+You can view the full Java code [here](StudentgradeCalculator.java).
 
 # Author 
 Shubhba Bhat
