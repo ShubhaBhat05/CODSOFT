@@ -30,7 +30,7 @@ Enter your PIN: ****
 5. Logout  
 
 # Code  
-You can view the full Java code in this repository.  
+You can view the full Java code in this repository[here](ATMSystem.java).  
 
 # Author
 Shubha Bhat
