@@ -1,0 +1,24 @@
+# ATM Interface 
+
+## Description
+This is a Java-based ATM simulation program. It allows multiple users to log in using account number and PIN and perform basic banking operations.
+
+## Features
+- Multiple account support
+- Login with account number and PIN
+- Check balance
+- Deposit money
+- Withdraw money
+- Transaction history
+- Input validation
+
+## Technologies Used
+- Java
+- OOP concepts
+
+## How to Run
+1. Compile:
+   javac ATMSystemReal.java
+
+2. Run:
+   java ATMSystemReal
